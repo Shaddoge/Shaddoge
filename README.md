@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Shaddoge
+- 👀 I’m interested in Game Developing
+- 🌱 I’m currently learning Game Development
